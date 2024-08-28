@@ -31,6 +31,31 @@
     <img src="https://skillicons.dev/icons?i=aws,selenium,nginx,firebase,supabase" /><br>
 </div>
 
-<br/>
-<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jonathan-imanu&theme=react&hide_rank=true&rank_icon=github" alt="GitHub Streak" /></a>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jonathan-imanu&show_icons=true&theme=react&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jonathan-imanu&show_icons=true&hide_rank=true&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathan-imanu&show_icons=true" />
+</picture>
+    <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-imanu&layout=pie&theme=react"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-imanu&layout=pie"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-imanu&layout=pie" />
+</picture>
+</div>
 
