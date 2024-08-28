@@ -35,6 +35,7 @@
 <br>
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jonathan-imanu&theme=react&hide_rank=true&rank_icon=github" alt="GitHub Streak" /></a>
+    <br>
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=jonathan-imanu&show_icons=true&theme=react&rank_icon=github"
@@ -46,6 +47,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=jonathan-imanu&show_icons=true" />
 </picture>
+   <br>
     <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-imanu&layout=pie&theme=react"
@@ -57,5 +59,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-imanu&layout=pie" />
 </picture>
+    <br>
 </div>
 
