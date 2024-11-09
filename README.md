@@ -5,14 +5,6 @@
 <h3 align="center">A computer science student at the University of Toronto  🇨🇦</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **ClubHub**
- 
- 🌱 I’m currently learning Docker and C++
-
- </div>
  
 <div align="center"> 
   <a href="https://linkedin.com/in/jonathan-imanuel" target="_blank">
